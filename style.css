@@ -1,0 +1,522 @@
+@font-face {
+  font-family: 'FontAwesome';
+  src: url("applab/fontawesome-webfont.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+#divApplab.appModern button.appModernDesign,
+#divApplab.appModern button.appModernDesign:hover {
+  left: 0px;
+  top: 0px;
+  width: 80px;
+  height: 30px;
+  color: rgb(255, 255, 255);
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 14px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  border-top-color: rgb(0, 0, 0);
+  border-right-color: rgb(0, 0, 0);
+  border-bottom-color: rgb(0, 0, 0);
+  border-left-color: rgb(0, 0, 0);
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  position: absolute;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  background-color: rgb(26, 188, 156);
+}
+
+#divApplab.appModern label.appModernDesign,
+#divApplab.appModern label.appModernDesign:hover {
+  left: 0px;
+  top: 0px;
+  width: 28px;
+  height: 19px;
+  color: rgb(51, 51, 51);
+  line-height: 1;
+  overflow: hidden;
+  padding-top: 2px;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 14px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  border-top-color: rgb(0, 0, 0);
+  border-right-color: rgb(0, 0, 0);
+  border-bottom-color: rgb(0, 0, 0);
+  border-left-color: rgb(0, 0, 0);
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  position: absolute;
+  word-wrap: break-word;
+  max-width: 320px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+
+#divApplab.appModern input[type=text].appModernDesign,
+#divApplab.appModern input[type=text].appModernDesign:hover {
+  left: 0px;
+  top: 0px;
+  width: 200px;
+  height: 30px;
+  color: rgb(0, 0, 0);
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 14px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  border-top-color: rgb(153, 153, 153);
+  border-right-color: rgb(153, 153, 153);
+  border-bottom-color: rgb(153, 153, 153);
+  border-left-color: rgb(153, 153, 153);
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  position: absolute;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+
+#divApplab.appModern input[type=checkbox].appModernDesign,
+#divApplab.appModern input[type=checkbox].appModernDesign:hover {
+  left: 0px;
+  top: 0px;
+  width: 12px;
+  height: 12px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  position: absolute;
+}
+
+#divApplab.appModern select.appModernDesign,
+#divApplab.appModern select.appModernDesign:hover {
+  left: 0px;
+  top: 0px;
+  width: 200px;
+  height: 30px;
+  background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20256%20448%22%20enable-background%3D%22new%200%200%20256%20448%22%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E.arrow%7Bfill%3A%23ffffff%3B%7D%3C%2Fstyle%3E%3Cpath%20class%3D%22arrow%22%20d%3D%22M255.9%20168c0-4.2-1.6-7.9-4.8-11.2-3.2-3.2-6.9-4.8-11.2-4.8H16c-4.2%200-7.9%201.6-11.2%204.8S0%20163.8%200%20168c0%204.4%201.6%208.2%204.8%2011.4l112%20112c3.1%203.1%206.8%204.6%2011.2%204.6%204.4%200%208.2-1.5%2011.4-4.6l112-112c3-3.2%204.5-7%204.5-11.4z%22%2F%3E%3C%2Fsvg%3E");
+  color: rgb(255, 255, 255);
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 14px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  border-top-color: rgb(0, 0, 0);
+  border-right-color: rgb(0, 0, 0);
+  border-bottom-color: rgb(0, 0, 0);
+  border-left-color: rgb(0, 0, 0);
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  position: absolute;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  background-color: rgb(26, 188, 156);
+}
+
+#divApplab.appModern input[type=radio].appModernDesign,
+#divApplab.appModern input[type=radio].appModernDesign:hover {
+  left: 0px;
+  top: 0px;
+  width: 12px;
+  height: 12px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  position: absolute;
+}
+
+#divApplab.appModern div.textArea.appModernDesign,
+#divApplab.appModern div.textArea.appModernDesign:hover {
+  left: 0px;
+  top: 0px;
+  width: 200px;
+  height: 100px;
+  color: rgb(0, 0, 0);
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 14px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  border-top-color: rgb(153, 153, 153);
+  border-right-color: rgb(153, 153, 153);
+  border-bottom-color: rgb(153, 153, 153);
+  border-left-color: rgb(153, 153, 153);
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  position: absolute;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  background-color: rgb(255, 255, 255);
+}
+
+#divApplab.appModern img.appModernDesign,
+#divApplab.appModern img.appModernDesign:hover {
+  left: 0px;
+  top: 0px;
+  width: 100px;
+  height: 100px;
+  background-image: url("https://studio.code.org/blockly/media/1x1.gif");
+  font-family: "object-fit: contain;";
+  background-position-x: center;
+  background-position-y: center;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  background-repeat: no-repeat;
+  border-top-color: rgb(0, 0, 0);
+  border-right-color: rgb(0, 0, 0);
+  border-bottom-color: rgb(0, 0, 0);
+  border-left-color: rgb(0, 0, 0);
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  position: absolute;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  background-origin: content-box;
+  background-size: contain;
+}
+
+#divApplab.appModern canvas.appModernDesign,
+#divApplab.appModern canvas.appModernDesign:hover {
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  position: absolute;
+}
+
+#divApplab.appModern div.screen.appModernDesign,
+#divApplab.appModern div.screen.appModernDesign:hover {
+  left: 0px;
+  top: 0px;
+  width: 320px;
+  height: 450px;
+  display: block;
+  position: absolute;
+  z-index: 0;
+}
+
+#divApplab.appModern div.chart.appModernDesign,
+#divApplab.appModern div.chart.appModernDesign:hover {
+  left: 0px;
+  top: 0px;
+  width: 100px;
+  height: 100px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  position: absolute;
+}
+
+#divApplab.appModern input[type=range].appModernDesign,
+#divApplab.appModern input[type=range].appModernDesign:hover {
+  left: 0px;
+  top: 0px;
+  width: 150px;
+  height: 24px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  position: absolute;
+}
+
+#divApplab.appModern #screen {
+  background-color: rgba(0, 0, 255, 0.55);
+}
+
+#divApplab.appModern #Exit_door {
+  left: 5px;
+  top: 395px;
+  width: 150px;
+  height: 50px;
+  border-image-source: none;
+  border-image-slice: 100%;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  background-color: black;
+}
+
+#divApplab.appModern #Start {
+  left: 160px;
+  top: 395px;
+  width: 150px;
+  height: 50px;
+  border-image-source: none;
+  border-image-slice: 100%;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  background-color: green;
+}
+
+#divApplab.appModern #label1 {
+  top: 20px;
+  width: 315px;
+  height: 50px;
+  text-align: center;
+  color: white;
+  font-family: "Comic Sans MS",cursive,sans-serif;
+  font-size: 23px;
+  border-image-source: none;
+  border-image-slice: 100%;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+}
+
+#divApplab.appModern #label6 {
+  left: -5px;
+  top: 150px;
+  width: 315px;
+  height: 65px;
+  text-align: center;
+  font-family: Tahoma,Geneva,sans-serif;
+  font-size: 25px;
+  border-image-source: none;
+  border-image-slice: 100%;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+}
+
+#divApplab.appModern #exit {
+  display: none;
+}
+
+#divApplab.appModern #terminate {
+  left: 15px;
+  top: 35px;
+  width: 285px;
+  height: 305px;
+  text-align: center;
+  color: red;
+  font-family: "Comic Sans MS",cursive,sans-serif;
+  border-top-color: rgb(41, 39, 39);
+  border-right-color: rgb(41, 39, 39);
+  border-bottom-color: rgb(41, 39, 39);
+  border-left-color: rgb(41, 39, 39);
+  border-top-left-radius: 9px;
+  border-top-right-radius: 9px;
+  border-bottom-right-radius: 9px;
+  border-bottom-left-radius: 9px;
+  border-image-source: none;
+  border-image-slice: 100%;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  background-color: green;
+}
+
+#divApplab.appModern #Return {
+  left: 100px;
+  top: 360px;
+  width: 115px;
+  height: 70px;
+  font-size: 20px;
+  border-image-source: none;
+  border-image-slice: 100%;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+}
+
+#divApplab.appModern #game1 {
+  display: none;
+  background-color: rgba(16, 14, 14, 0.81);
+}
+
+#divApplab.appModern #label2 {
+  left: 5px;
+  top: 195px;
+  width: 320px;
+  height: 205px;
+  color: white;
+  font-size: 30px;
+  border-image-source: none;
+  border-image-slice: 100%;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+}
+
+#divApplab.appModern #c {
+  left: 5px;
+  top: 395px;
+  width: 150px;
+  height: 50px;
+  font-family: "Times New Roman",Times,serif;
+  font-size: 20px;
+  border-image-source: none;
+  border-image-slice: 100%;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+}
+
+#divApplab.appModern #js {
+  left: 165px;
+  top: 395px;
+  width: 140px;
+  height: 50px;
+  font-family: "Times New Roman",Times,serif;
+  font-size: 20px;
+  border-image-source: none;
+  border-image-slice: 100%;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+}
+
+#divApplab.appModern #label5 {
+  left: 65px;
+  top: 35px;
+  width: 180px;
+  height: 70px;
+  text-align: center;
+  color: rgba(0, 250, 255, 0.65);
+  font-family: Impact,Charcoal,sans-serif;
+  font-size: 50px;
+  border-image-source: none;
+  border-image-slice: 100%;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+}
+
+#divApplab.appModern #gameA {
+  display: none;
+  background-color: rgba(0, 0, 255, 0.17);
+}
+
+#divApplab.appModern #Winner {
+  top: 40px;
+  width: 320px;
+  height: 300px;
+  font-family: "Lucida Sans Unicode","Lucida Grande",sans-serif;
+  font-size: 25px;
+  border-image-source: none;
+  border-image-slice: 100%;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  background-color: grey;
+}
+
+#divApplab.appModern #playAgain {
+  left: 75px;
+  top: 385px;
+  width: 165px;
+  height: 60px;
+  border-image-source: none;
+  border-image-slice: 100%;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+}
+
+#divApplab.appModern #gameB {
+  display: none;
+  background-color: rgba(255, 0, 0, 0.5);
+}
+
+#divApplab.appModern #ld {
+  left: 5px;
+  top: 125px;
+  width: 305px;
+  height: 140px;
+  font-family: "Lucida Console",Monaco,monospace;
+  font-size: 20px;
+  border-image-source: none;
+  border-image-slice: 100%;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+  background-color: grey;
+}
+
+#divApplab.appModern #TryAgain {
+  left: 85px;
+  top: 390px;
+  width: 155px;
+  height: 55px;
+  border-image-source: none;
+  border-image-slice: 100%;
+  border-image-width: 1;
+  border-image-outset: 0;
+  border-image-repeat: stretch;
+}
